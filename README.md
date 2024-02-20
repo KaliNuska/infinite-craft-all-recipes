@@ -1,6 +1,8 @@
 # infinite-craft-all-recipes
 This is a breadth-first search result of all the recipes found so far for infinite-craft. Use `Ctrl + F`/`Cmd + F` to search for the desired element. Suffix the element with a ` <-` to search for result elements only.
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKaliNuska%2Finfinite-craft-all-recipes&labelColor=%23ba68c8&countColor=%23dce775&labelStyle=upper)
+
 ## Tier 1:
   1. **Dust** <- `Earth + Wind`
   2. **Lake** <- `Water`
