@@ -1,5 +1,5 @@
 # infinite-craft-all-recipes
-This is a breadth-first search result of all the recipes found so far for infinite-craft. Use `Ctrl + F`/`Cmd + F` to search for the desired element. Prefix the element with a `. ` to search for result elements only.
+This is a breadth-first search result of all the recipes found so far for infinite-craft. Use `Ctrl + F`/`Cmd + F` to search for the desired element. Suffix the element with a ` <-` to search for result elements only.
 
 ## Tier 1:
   1. **Dust** <- `Earth + Wind`
